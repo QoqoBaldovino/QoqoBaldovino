@@ -5,7 +5,10 @@ Hola! Soy Carlos. Estoy en el proceso de ser un <b>Desarrollador Web Full Stack<
 
 Hi! I am Carlos, I am in the process of becoming a <b>Full Stack web developer</b>. I'll upload my projects here so you can see them 😊
 
-
+ <a href="https://www.linkedin.com/in/carlosbaldovino/">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Contact Carlos on LinkedIn" title="Follow             @crloscuesta on Twitter">
+  </a>
+  
 <!--
 **QoqoBaldovino/QoqoBaldovino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
