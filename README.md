@@ -5,7 +5,7 @@ Hola! Soy Carlos. Estoy en el proceso de ser un <b>Desarrollador Web Full Stack<
 
 Hi! I am Carlos, I am in the process of becoming a <b>Full Stack web developer</b>. I'll upload my projects here so you can see them 😊
 
-Contactame / Contact me:
+<i>Contáctame / Contact me</i> ✍🏼:
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/carlosbaldovino/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/qoqobaldovino/)
 <!--
