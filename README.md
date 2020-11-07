@@ -3,7 +3,7 @@
 
 Hola! Soy Carlos. Estoy en el proceso de ser un <b>Desarrollador Web Full Stack</b>. En este Github estaré subiendo mis trabajos que estaré haciendo durante mi aprendizaje y asi le echas un vistazo 😊.
 
-Hi! I am Carlos, I am in the process of becoming a <b>Full Stack web developer</b>. I'll upload my projects here so you can check it out them 😊
+Hi! I am Carlos, I am in the process of becoming a <b>Full Stack web developer</b>. I'll upload my projects here so you can check them 😊
 
 <i>Contáctame / Contact me</i> ✍🏼:
 
